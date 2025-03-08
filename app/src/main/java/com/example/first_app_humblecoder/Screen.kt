@@ -65,7 +65,8 @@ fun encoderDecoder()
                 modifier = Modifier.padding(top = 60.dp, bottom = 16.dp)
             )
 
-            OutlinedTextField(
+            OutlinedTextField
+            (
                 value = inputEncode,
                 onValueChange = { inputEncode = it },
                 label = { Text("Enter a string to encode") },
