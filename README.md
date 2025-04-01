@@ -42,9 +42,10 @@ I have created a basic encoder and decoder application using Kotlin and JetPackC
 
 You guys can easily find the entire code easily on my #github profile.
 
-#### Explaination Link :- ( https://www.youtube.com/watch?v=djv4fxNiuh4 ) 
+
 
 #kotlin #kotlindeveloper #jetpackcompose #android
 
+## Explaination Link :- ( https://www.youtube.com/watch?v=djv4fxNiuh4 ) 
 
 ##### HAPPY LEARNING :- )
